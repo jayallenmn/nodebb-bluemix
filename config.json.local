@@ -1,0 +1,10 @@
+{
+    "url": "http://nodebb.mybluemix.net",
+    "database": "redis",
+    "redis": {
+        "host": "aws-us-east-1-portal.16.dblayer.com",
+        "port": "10468",
+        "database": "0",
+        "password": "HGJRZZOLXFVNICHV"
+    }
+}
